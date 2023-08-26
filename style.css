@@ -1,0 +1,134 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.nav-bar {
+  background: #fef5f4;
+  height: 80px;
+  top: 0px;
+  z-index: 1;
+  position: sticky;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: #f94a3d !important;
+}
+.search-div {
+  padding: 5px;
+  border-radius: 12px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  color: #817b77;
+  box-shadow: none;
+  background: white;
+}
+
+.search-div > .search-bar {
+  background-color: transparent;
+  height: 30px;
+  outline: none;
+}
+
+.search-div > .search-icon {
+  color: #817b77;
+}
+.signin-btn {
+  font-size: small;
+  width: 80px;
+  height: 35px;
+  border-radius: 10px;
+  border: none;
+  background: #f94a3d !important;
+}
+.hero-section {
+  background: #fef5f4;
+}
+.heading-div {
+  width: 400px;
+  flex-shrink: 0;
+}
+.hero-section > img {
+  width: 600px;
+}
+.typography {
+  color: #212244;
+  font-size: 40px;
+}
+.typography > span {
+  color: #f94a3d;
+}
+.hero-para {
+  color: #7d7c8c;
+}
+.explore-button {
+  background: #f94a3d;
+  border: none;
+  color: white;
+  border-radius: 8px;
+  padding: 10px;
+}
+.hero-section-2 {
+  margin: 40px;
+}
+.why-card-1 {
+  border: none !important;
+  padding: 10px;
+  width: 250px;
+  height: 316px;
+  border-radius: 10px !important;
+}
+.why-card {
+  border: none !important;
+  text-align: center;
+  padding: 20px;
+  width: 250px;
+  height: 320px;
+  border-radius: 10px !important;
+}
+.why-card-1 > p {
+  padding-top: 20px;
+}
+.why-card > h2 {
+  padding-top: 20px;
+  font-size: 23px !important;
+}
+.special-menu > a {
+  font-weight: 500;
+}
+.special-menu > a:hover {
+  text-decoration: underline #f94a3d !important;
+}
+.price{
+    color: #7d7c8c;
+}
+.price>span{
+    font-weight: 700;
+    color: #f94a3d;
+}
+.sp-card {
+    border: none !important;
+    text-align: center;
+    padding: 20px;
+    width: 250px;
+    height: 350px;
+    border-radius: 10px !important;
+  }
+  .sp-btn{
+    border:1px solid#f94a3d !important;
+    color: #f94a3d !important;
+  }
+  .sp-btn:hover{
+   background: #f94a3d !important;
+    color: white !important;
+  }
+  footer{
+    background: #FEF6F5;
+    height: auto;
+  }
+  .about-co{
+    width: 300px;
+  }
+  table{
+    margin: auto;
+  }
